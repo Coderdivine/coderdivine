@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [Axgura](axgura.com)
 
-- 🌱 I’m currently learning **Rust
+- 🌱 I’m currently learning *Rust
 
 - 👨‍💻 All of my projects are available at [Personal Site](heischimdi.xyz)
 
-- 💬 Ask me about **Javascript, Python**, **Rust, Solidity** and **C
+- 💬 Ask me about **Javascript, Python**, **Rust, Solidity**, and *C
 
 - 📫 How to reach me **chimdi4332@gmail.com**
 
