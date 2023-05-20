@@ -1,11 +1,11 @@
 <h1 align="center">Greetings! 👋 I am Chimdi</h1>
 <h3 align="center">Embark on an Uncharted Journey of Building the Unimaginable</h3>
 
-<p align="left" style="padding:2px; margin:4px;"> <img src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
+<p align="left" > <img style="padding:2px; margin:4px;" src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
 
-<p align="left" style="padding:2px; margin:2px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdivine" alt="coderdivine" /></a> </p>
+<p align="left" style="padding:2px; margin:2px;"> <a style="padding:2px; margin:4px;" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdivine" alt="coderdivine" /></a> </p>
 
-<p align="left" style="padding:2px; margin:4px;"> <a href="https://twitter.com/ChimdiXo" target="blank"> <img src="https://img.shields.io/twitter/follow/ChimdiXo?logo=twitter&style=for-the-badge" alt="chimdixo" /></a> </p>
+<p align="left" style="padding:2px; margin:4px;"> <a style="padding:2px; margin:4px;" href="https://twitter.com/ChimdiXo" target="blank"> <img src="https://img.shields.io/twitter/follow/ChimdiXo?logo=twitter&style=for-the-badge" alt="chimdixo" /></a> </p>
 
 🔭 Currently Engaged with [Axgura](https://axgura.com): Exploring New Horizons
 
