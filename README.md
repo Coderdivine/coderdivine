@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chimdi </h1>
-<h3 align="center">LETS BUILD THE UNIMAGINEABLE</h3>
+<h1 align="center">Greetings! 👋 I am Chimdi</h1>
+<h3 align="center">Embark on an Uncharted Journey of Building the Unimaginable</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/ChimdiXo" target="blank"> <img src="https://img.shields.io/twitter/follow/ChimdiXo?logo=twitter&style=for-the-badge" alt="chimdixo" /></a> </p>
 
-- 🔭 I’m currently working on [Axgura](https://axgura.com)
+- 🔭 I’m currently working on [Axgura](axgura.com)
 
 - 🌱 I’m currently learning **Python,C and C++**
 
-- 👨‍💻 All of my projects are available at [https://heischimdi.xyz](https://heischimdi.xyz)
+- 👨‍💻 All of my projects are available at [Personal Site](heischimdi.xyz)
 
-- 💬 Ask me about **Javascript and Python**
+- 💬 Ask me about **Javascript, Python**, **Rust, **Solidity and C
 
 - 📫 How to reach me **chimdi4332@gmail.com**
 
-- ⚡ Fun fact **I build**
+- ⚡ Fascinating revelation: I am the mastermind behind the creation
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
