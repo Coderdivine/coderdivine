@@ -1,21 +1,21 @@
 <h1 align="center">Greetings! 👋 I am Chimdi</h1>
 <h3 align="center">Embark on an Uncharted Journey of Building the Unimaginable</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
+<p align="left" style="padding:2px; margin:2px;"> <img src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdivine" alt="coderdivine" /></a> </p>
+<p align="left" style="padding:2px; margin:2px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdivine" alt="coderdivine" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ChimdiXo" target="blank"> <img src="https://img.shields.io/twitter/follow/ChimdiXo?logo=twitter&style=for-the-badge" alt="chimdixo" /></a> </p>
+<p align="left" style="padding:2px; margin:2px;"> <a href="https://twitter.com/ChimdiXo" target="blank"> <img src="https://img.shields.io/twitter/follow/ChimdiXo?logo=twitter&style=for-the-badge" alt="chimdixo" /></a> </p>
 
-- 🔭 I’m currently working on [Axgura](axgura.com)
+🔭 Currently Engaged with [Axgura](https://axgura.com): Exploring New Horizons
 
-- 🌱 I’m currently learning *Rust
+🌱 Thriving on Continuous Growth: Mastering **Rust
 
-- 👨‍💻 All of my projects are available at [Personal Site](heischimdi.xyz)
+👨‍💻 Unveiling My Portfolio: Visit My [Personal Site](https://heischimdi.xyz)
 
-- 💬 Ask me about **Javascript, Python**, **Rust, Solidity**, and *C
+💬 A Language Maestro: Discussing **Javascript, Python**, **Rust, Solidity**, and **C
 
-- 📫 How to reach me **chimdi4332@gmail.com**
+📫 Let's Connect: Reach Me at **chimdi4332@gmail.com
 
 - ⚡ Fascinating revelation: I am the mastermind behind the creation
 
