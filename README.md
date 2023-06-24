@@ -13,7 +13,7 @@
 
 👨‍💻 Unveiling My Portfolio: Visit My [Personal Site](https://heischimdi.xyz)
 
-💬 A Language Maestro: Discussing **Javascript, Python**, **Rust, Solidity, and C
+💬 A Language Maestro: Discussing **Javascript, Python**, **Rust, **Solidity, and C
 
 📫 Let's Connect: Reach Me at chimdi4332@gmail.com
 
