@@ -1,5 +1,5 @@
 <h1 align="center">Greetings! 👋 I am Chimdi</h1>
-<h3 align="center">Embark on an Uncharted Journey of Building the Unimaginable </h3>
+<h3 align="center">Embark on an Uncharted Journey of Building the Unimaginable</h3>
 
 <p align="left" > <img style="padding:2px; margin:4px;" src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
 
