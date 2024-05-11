@@ -3,8 +3,18 @@
   Software Engineer with over 4 years of experience building applications in health, retail, finance, and crypto. 
 </h3>
 
-📫 Let's Work: <br />
- chimdi4332@gmail.com
+<h4 align="left">
+  <ol>
+     <li><p>- Backend (Typescript & NodeJS)</p></li>
+     <li><p>- Frontend (ReactJS & NextJS)</p></li>
+     <li><p>- Cloud (GCP & Ducker)</p></li>
+  </ol>
+</h4>
+
+
+
+<h4 algin="left">📫 Let's Work:</h4>
+<p>chimdi4332@gmail.com</p>
  
 <h3 align="left">Connect with me</h3>
 <p align="left">
