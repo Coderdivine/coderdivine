@@ -1,5 +1,7 @@
 <h1 align="center">Greetings! 👋 I am Chimdi</h1>
-<h3 align="center">Embark on an Uncharted Journey of Building the Unimaginable</h3>
+<h3 align="center">
+  Software Engineer and Founder based in Lagos
+</h3>
 
 <p align="left" > <img style="padding:2px; margin:4px;" src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
 
@@ -15,9 +17,9 @@
 
 💬 A Language Maestro: Discussing **Javascript, Python**, **Rust, **Solidity, and C
 
-📫 Let's Connect: Reach Me at chimdi4332@gmail.com
+📫 Let's Work: Reach Me at chimdi4332@gmail.com
 
-- ⚡ Fascinating revelation: I am the mastermind behind the creation
+⚡ Yourself is it
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
