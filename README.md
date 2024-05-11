@@ -14,7 +14,7 @@
 
 
 <h3 algin="left">📫 Let's Work:</h3>
-<p>chimdi4332@gmail.com</p> <br/>
+<p>chimdi4332@gmail.com</p>
  
 <h3 align="left">Connect with me</h3>
 <p align="left">
