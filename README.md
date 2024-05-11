@@ -1,21 +1,11 @@
-<h1 align="center">Greetings! 👋 I am Chimdi</h1>
+<h1 align="center">Greetings! 👋 I am Chimdi (Yourself is it) </h1>
 <h3 align="center">
   Software Engineer and Founder based in Lagos
 </h3>
 
 <p align="left" > <img style="padding:2px; margin:4px;" src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
 
-<p align="left" > <a style="padding:2px; margin:4px;" href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding:2px; margin:4px;"  src="https://github-profile-trophy.vercel.app/?username=coderdivine" alt="coderdivine" /></a> </p>
-
 <p align="left" style="padding:2px; margin:4px;"> <a style="padding:2px; margin:4px;" href="https://twitter.com/ChimdiXo" target="blank"> <img  style="padding:2px; margin:4px;" src="https://img.shields.io/twitter/follow/ChimdiXo?logo=twitter&style=for-the-badge" alt="chimdixo" /></a> </p>
-
-🔭 Currently Engaged with [Axgura](https://axgura.com): Exploring New Horizons
-
-🌱 Thriving on Continuous Growth: Mastering Rust
-
-👨‍💻 Unveiling My Portfolio: Visit My [Personal Site](https://heischimdi.xyz)
-
-💬 A Language Maestro: Discussing **Javascript, Python**, **Rust, **Solidity, and C
 
 📫 Let's Work: Reach Me at chimdi4332@gmail.com
 
