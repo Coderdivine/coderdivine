@@ -3,13 +3,13 @@
   Software Engineer with over 4 years of experience building applications in health, retail, finance, and crypto. 
 </h3>
 
-<h4 align="left" style="font:"semibold">
+<p align="left" style="font:"semibold">
   <ul>
      <li><p> Backend (Typescript & NodeJS)</p></li>
      <li><p> Frontend (ReactJS & NextJS)</p></li>
      <li><p> Cloud (GCP & Ducker)</p></li>
   </ul>
-</h4>
+</p>
 
 
 
