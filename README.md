@@ -1,9 +1,9 @@
-<h1 align="center">Greetings! 👋 I am Chimdi (Yourself is it) </h1>
+<h1 align="center"> Hello👋, I'm Chimdi</h1>
 <h3 align="center">
   Software Engineer with over 4 years of building exprience in health, retail, finance, crypto.  
 </h3>
 
-📫 Let's Work:
+📫 Let's Work: <br />
  chimdi4332@gmail.com
 
 ⚡ Yourself is it
@@ -24,8 +24,9 @@
 <h3 algin="left">Profile Visits:</h3>
 <p align="left" > <img style="padding:2px; margin:4px;" src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
 
+<details>
+<summary>Click to expand</summary>
 <p><img align="left" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=coderdivine&show_icons=true&locale=en&layout=compact" alt="coderdivine" /></p>
-
 <p>&nbsp;<img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api?username=coderdivine&show_icons=true&locale=en" alt="coderdivine" /></p>
-
 <p><img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=coderdivine&" alt="coderdivine" /></p>
+</details>
