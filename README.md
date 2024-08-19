@@ -1,6 +1,6 @@
 <h1 align="center"> Hello👋, I'm Chimdi</h1>
 <h3 align="center">
-  Software Engineer with over 4 years of experience building applications in health, retail, finance, and crypto.
+  Software Engineer with over 5 years of experience building applications in health, retail, finance, and crypto.
 </h3>
 
 <p align="left" style="font:"semibold">
