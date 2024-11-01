@@ -82,7 +82,7 @@
 
 
 <h3 align="left">Work</h3>
-<p>Portfolio: https://heischimdi.vercel.app </p>
+<p>Portfolio: https://chimdi.aesthery.com </p>
 
 
 <h3 algin="left">Profile Visits:</h3>
